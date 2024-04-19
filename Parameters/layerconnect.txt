@@ -1,0 +1,3 @@
+prelayer: 1	nextlayer: 2	type: conv3*3	volumn: 16384	prelayer_tile: 0 0 	nextlayer_tile: 0 0 
+prelayer: 2	nextlayer: 3	type: conv3*3	volumn: 8192	prelayer_tile: 0 0 	nextlayer_tile: 0 0 
+prelayer: 3	nextlayer: 4	type: conv3*3	volumn: 16384	prelayer_tile: 0 0 	nextlayer_tile: 0 0 

@@ -1,0 +1,28 @@
+{
+  "linear_search": true,
+  "exponential_search": false,
+  "initialADCpower": 0.001,
+  "initialADCSR": 10000000,
+  "initialADCarea": 0.001,
+  "upboundADCpower": 1,
+  "upboundADCSR": 10000000000,
+  "upboundADCarea": 0.1,
+  "downboundADCpower": 1e-06,
+  "downboundADCSR": 100000,
+  "downboundADCarea": 1e-05,
+  "initalpoints": [
+    0.001,
+    10000000,
+    0.001
+  ],
+  "upboundaries": [
+    1,
+    10000000000,
+    0.1
+  ],
+  "downboundaries": [
+    1e-06,
+    100000,
+    1e-05
+  ]
+}

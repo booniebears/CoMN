@@ -1,0 +1,16 @@
+{
+  "minSubarray": 64,
+  "minMacronumbers": 2,
+  "minbuswidthTile": 16,
+  "minbuffersizeTile": 4,
+  "minColumnMUX": 1,
+  "minmeshflitband": 8,
+  "minhtreeflitband": 4,
+  "maxSubarray": 1024,
+  "maxMacronumbers": 16,
+  "maxbuswidthTile": 128,
+  "maxbuffersizeTile": 128,
+  "maxColumnMUX": 16,
+  "maxmeshflitband": 128,
+  "maxhtreeflitband": 128
+}

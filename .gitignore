@@ -1,0 +1,11 @@
+.vscode/
+.idea/
+__pycache__/
+generate_data/tcad/accuracy_out
+generate_data/tcad/circuit_out
+generate_data/tcad/mapping_out
+generate_data/tcad/performance_out
+src/refactor/build
+datasets/cifar-10-batches-py
+datasets/MNIST
+Weight/tcad

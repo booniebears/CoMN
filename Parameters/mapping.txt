@@ -1,0 +1,11 @@
+layer: 1 Split_tile[0]: 1 Split_tile[1]: 1 Split_array[0]: 0.0263671875 Split_array[1]: 0.5 intraTile: 1 interTile: 1 duplication: 1
+layer: 2 Split_tile[0]: 1 Split_tile[1]: 1 Split_array[0]: 0.5625 Split_array[1]: 1 intraTile: 1 interTile: 1 duplication: 1
+layer: 3 Split_tile[0]: 1 Split_tile[1]: 1 Split_array[0]: 0.75 Split_array[1]: 3 intraTile: 1 interTile: 1 duplication: 1
+layer: 4 Split_tile[0]: 1 Split_tile[1]: 1 Split_array[0]: 1.5 Split_array[1]: 3 intraTile: 1 interTile: 1 duplication: 1
+layer: 5 Split_tile[0]: 1 Split_tile[1]: 1 Split_array[0]: 3 Split_array[1]: 3 intraTile: 1 interTile: 1 duplication: 1
+layer: 6 Split_tile[0]: 1 Split_tile[1]: 2 Split_array[0]: 3 Split_array[1]: 3 intraTile: 1 interTile: 2 duplication: 1
+layer: 7 Split_tile[0]: 1 Split_tile[1]: 2 Split_array[0]: 3 Split_array[1]: 3 intraTile: 1 interTile: 2 duplication: 1
+layer: 8 Split_tile[0]: 1 Split_tile[1]: 2 Split_array[0]: 3 Split_array[1]: 3 intraTile: 1 interTile: 2 duplication: 1
+layer: 9 Split_tile[0]: 1 Split_tile[1]: 1 Split_array[0]: 0.5 Split_array[1]: 0.5 intraTile: 1 interTile: 1 duplication: 1
+layer: 10 Split_tile[0]: 1 Split_tile[1]: 1 Split_array[0]: 0.5 Split_array[1]: 0.5 intraTile: 1 interTile: 1 duplication: 1
+layer: 11 Split_tile[0]: 1 Split_tile[1]: 1 Split_array[0]: 0.5 Split_array[1]: 0.009765625 intraTile: 1 interTile: 1 duplication: 1

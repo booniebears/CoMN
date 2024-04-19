@@ -1,0 +1,4 @@
+latency: 0.331315
+read_energy: 0.00923451
+write_energy: 0.0100942
+area: 0.0765062

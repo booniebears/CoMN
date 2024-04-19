@@ -1,0 +1,22 @@
+{
+  "area": true,
+  "circuit_optimized": false,
+  "energy": false,
+  "evaluate_mode": false,
+  "f": 100,
+  "guiding_finish": false,
+  "init_points": 10,
+  "latency": false,
+  "mapping_finish": true,
+  "mapping_method": 0,
+  "mapping_optimized": true,
+  "only_peupdate": false,
+  "partition_optimized": false,
+  "pipeline_method": 0,
+  "prepare_mode": true,
+  "search_iters": 100,
+  "specification_optimized": true,
+  "target": 0.01,
+  "training_finish": false,
+  "user_defined_area": 50000000
+}

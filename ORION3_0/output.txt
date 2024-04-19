@@ -1,0 +1,21 @@
+No information provided. Running Orion 3.0 basic mode
+INSTSinbuffer: 4805
+INSTSoutbuffer: 1725
+ INSTScrossbar: 400
+ INSTSswvc: 3960
+ INSTSclkctrl: 209
+Pleakage: 0.304553
+Pinternal: 7.59707
+Pswitching: 5.53232
+Ptotal: 13.4339
+INSTSinbuffer: 4805
+INSTSoutbuffer: 1725
+ INSTScrossbar: 400
+ INSTSswvc: 3960
+ INSTSclkctrl: 209
+ Ainbuffer: 22487.4
+Aoutbuffer: 8073
+ Acrossbar: 1440
+ Aswvc: 7761.6
+ Aclkctrl: 376.2
+Atotal: 40138.2

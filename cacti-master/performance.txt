@@ -1,0 +1,1 @@
+  Data array: Total dynamic read energy/access  (nJ): 0.286158

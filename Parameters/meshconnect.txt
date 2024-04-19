@@ -1,0 +1,10 @@
+prelayer: 1	nextlayer: 2	type: conv3*3	volumn: 16384	prelayer_tile: 0 0 	nextlayer_tile: 1 1 
+prelayer: 2	nextlayer: 3	type: conv3*3	volumn: 8192	prelayer_tile: 1 1 	nextlayer_tile: 2 2 
+prelayer: 3	nextlayer: 4	type: conv3*3	volumn: 16384	prelayer_tile: 2 2 	nextlayer_tile: 3 3 
+prelayer: 4	nextlayer: 5	type: conv3*3	volumn: 4096	prelayer_tile: 3 3 	nextlayer_tile: 4 4 
+prelayer: 5	nextlayer: 6	type: conv3*3	volumn: 8192	prelayer_tile: 4 4 	nextlayer_tile: 5 6 
+prelayer: 6	nextlayer: 7	type: conv3*3	volumn: 2048	prelayer_tile: 5 6 	nextlayer_tile: 7 8 
+prelayer: 7	nextlayer: 8	type: conv3*3	volumn: 2048	prelayer_tile: 7 8 	nextlayer_tile: 9 10 
+prelayer: 8	nextlayer: 9	type: fc	volumn: 512	prelayer_tile: 9 10 	nextlayer_tile: 11 11 
+prelayer: 9	nextlayer: 10	type: fc	volumn: 512	prelayer_tile: 11 11 	nextlayer_tile: 12 12 
+prelayer: 10	nextlayer: 11	type: fc	volumn: 512	prelayer_tile: 12 12 	nextlayer_tile: 13 13 

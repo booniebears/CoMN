@@ -1,0 +1,11 @@
+ Split_tile[0]: 1 Split_tile[1]: 1 Split_array[0]: 0.052734375 Split_array[1]: 1 intraTile: 1 interTile: 1 duplication: 1 fold_copies: 1
+ Split_tile[0]: 1 Split_tile[1]: 1 Split_array[0]: 0.75 Split_array[1]: 1.875 intraTile: 1 interTile: 1 duplication: 1 fold_copies: 2
+ Split_tile[0]: 1 Split_tile[1]: 2 Split_array[0]: 1.5 Split_array[1]: 1.875 intraTile: 1 interTile: 2 duplication: 1 fold_copies: 2
+ Split_tile[0]: 1 Split_tile[1]: 4 Split_array[0]: 1.5 Split_array[1]: 1.875 intraTile: 1 interTile: 4 duplication: 1 fold_copies: 1
+ Split_tile[0]: 1 Split_tile[1]: 8 Split_array[0]: 1.5 Split_array[1]: 1.875 intraTile: 1 interTile: 8 duplication: 1 fold_copies: 1
+ Split_tile[0]: 2 Split_tile[1]: 8 Split_array[0]: 1.5 Split_array[1]: 1.875 intraTile: 1 interTile: 16 duplication: 1 fold_copies: 1
+ Split_tile[0]: 2 Split_tile[1]: 8 Split_array[0]: 1.5 Split_array[1]: 1.875 intraTile: 1 interTile: 16 duplication: 1 fold_copies: 1
+ Split_tile[0]: 2 Split_tile[1]: 8 Split_array[0]: 1.5 Split_array[1]: 1.875 intraTile: 1 interTile: 16 duplication: 1 fold_copies: 1
+ Split_tile[0]: 1 Split_tile[1]: 1 Split_array[0]: 1 Split_array[1]: 1 intraTile: 1 interTile: 1 duplication: 1 fold_copies: 1
+ Split_tile[0]: 1 Split_tile[1]: 1 Split_array[0]: 1 Split_array[1]: 1 intraTile: 1 interTile: 1 duplication: 1 fold_copies: 1
+ Split_tile[0]: 1 Split_tile[1]: 1 Split_array[0]: 1 Split_array[1]: 0.01953125 intraTile: 1 interTile: 1 duplication: 1 fold_copies: 1

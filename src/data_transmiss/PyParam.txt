@@ -1,0 +1,6 @@
+layer: 3
+stride: 1,1
+kernel_size: 3,3
+padding: 1,1
+w_precision: 8
+a_precision: 8

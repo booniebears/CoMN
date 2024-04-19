@@ -1,0 +1,30 @@
+.ipynb_checkpoints
+*.pyc
+*.egg-info/
+build/
+dist/
+scratch/
+.idea/
+.DS_Store
+bo_eg*.png
+gif/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/

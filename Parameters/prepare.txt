@@ -1,0 +1,3 @@
+layer: 1 array_size: 13824 compute_cycle: 1024
+layer: 2 array_size: 589824 compute_cycle: 256
+layer: 3 array_size: 2359296 compute_cycle: 64
