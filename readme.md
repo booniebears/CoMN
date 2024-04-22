@@ -9,6 +9,7 @@ CoMN is composed of three main parts: **algorithm adapter**, which aims at impro
 Before running the algorithm adapter/mapper/hardware optimizer, first compile the C++ files to executable file:
 ```bash
 cd src/refactor
+chmod +x run.sh
 ./run.sh
 ```
 
