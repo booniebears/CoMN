@@ -11,10 +11,10 @@ Before running the algorithm adapter/mapper/hardware optimizer, first compile th
 cd src/refactor
 chmod +x run.sh
 ./run.sh
-# Go back to CoMN base directory Before executing the following demand
+# Go back to CoMN base directory Before executing the following command
 cd cacti-master
 make
-# Go back to CoMN base directory Before executing the following demand
+# Go back to CoMN base directory Before executing the following command
 cd ORION3_0
 make
 ```
