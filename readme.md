@@ -30,7 +30,7 @@ You can change configurations of CoMN in directory "Parameters", where all the j
 The generations of the python files are located in "generate_data/tcad".
 
 ### GUI for CoMN
-We have also developed a Web GUI for CoMN. You can access the platform via http://101.42.97.22:8081/index.html. You need to register first before using platform.
+We have also developed a Web GUI for CoMN. You can access the platform via http://101.42.97.22:8081/index.html. Do not use VPN when you access the website. You need to register first before using the platform online. 
 Still, we strongly recommend you download the source code and use CoMN platform locally due to limited GPU resources on our server.
 
 ### Contact Us
