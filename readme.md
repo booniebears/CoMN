@@ -1,4 +1,4 @@
-## CoMN V1.0
+## CoMN V1.1
 
 CoMN platform was developed by **Prof. Peng Huang's research group(Peking University)**. The platfrom is proposed for designers to fast verify and further optimize the designments of non-volatile memory based neural network accelerators. Copyright of the model is maintained by the developers, and the model is distributed under the terms of the **MIT License**.
 
